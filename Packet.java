@@ -1,7 +1,3 @@
-
-
-
-
 public  class Packet {
      private double arrTime, svcTime;
 
